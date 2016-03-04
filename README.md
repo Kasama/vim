@@ -19,3 +19,4 @@ then edit your ~/.vimrc to contain
 ```
 
 the first time you open vim, it will proceed to install [Vundle](https://github.com/VundleVim/Vundle.vim) and then all the plugins specified in the **vimrc**.
+
